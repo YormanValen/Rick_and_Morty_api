@@ -1,6 +1,7 @@
 # vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+Pagina realizada en vuejs donde se consume la api de Rick and Morty.
+https://rickandmortyapiyorman.netlify.app/
 
 ## Recommended IDE Setup
 
